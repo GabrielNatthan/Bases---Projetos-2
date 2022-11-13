@@ -1,7 +1,4 @@
- Óbitos por causas evitáveis em menores de 5 anos - Brasil
-Óbitos p/Ocorrênc por Município e Ano do Óbito
-Período:2010
-"Município";"2010";"Total"
+"MunicÃ­pio";"2010";"Total"
 "110001 ALTA FLORESTA D'OESTE";6;6
 "110002 ARIQUEMES";32;32
 "110003 CABIXI";1;1
@@ -2749,14 +2746,4 @@ Período:2010
 "522155 TURVELANDIA";1;1
 "522185 VALPARAISO DE GOIAS";2;2
 "522200 VIANOPOLIS";1;1
-"530010 BRASILIA";858;858
-"Total";46875;46875
- Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
- Nota:
- 
- Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
- utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
- "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
- No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
- No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
- 
+"530010 BRASILIA";858;858 
